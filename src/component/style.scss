@@ -197,6 +197,23 @@
         }
     }
 }
+.contact_component{
+    color: #fff;
+    margin-top: 10%;
+    background-image: url('../Assets/map.png');
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    & .contact_combine{
+        display: flex;
+    }
+}
+.contact_form{
+    color: #fff;
+    margin-top: 10%;
+    display: flex !important;
+    position: relative;
+}
 .css-5xe99f-MuiLinearProgress-bar1 {
     background-color: #0bceaf !important;
 }
