@@ -151,3 +151,26 @@
         flex-direction: row;
     }
 }
+.skills_component{
+    margin-top: 15%;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+    & .technology_level{
+        display: flex;
+        margin-top: 20px;
+        & .technology_name{
+            width: 60%;
+            text-align: left;
+            padding-left: 50px;
+        }
+    }
+    & .professional_skill{
+        display: inline-flex;
+        flex-wrap: wrap;
+        width: 35%;
+        margin-bottom: 20px;
+    }
+}

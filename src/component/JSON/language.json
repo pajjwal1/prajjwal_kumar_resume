@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "language_name": "HTML,CSS",
+      "completion": 95
+    },
+    {
+      "id": 2,
+      "language_name": "Javascript",
+      "completion": 90
+    },
+    {
+      "id": 3,
+      "language_name": "React JS",
+      "completion": 90
+    },
+    {
+        "id": 4,
+        "language_name": "JEST",
+        "completion": 90
+    },
+    {
+        "id": 5,
+        "language_name": "UI Designing",
+        "completion": 60
+    },
+    {
+        "id": 6,
+        "language_name": "Material UI",
+        "completion": 90
+    },
+    {
+      "id": 7,
+      "language_name": "TypeScript",
+      "completion": 70
+  }
+]

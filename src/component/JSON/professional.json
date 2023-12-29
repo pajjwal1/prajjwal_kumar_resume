@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "skill_name": "Agile",
+      "completion": 95
+    },
+    {
+      "id": 2,
+      "skill_name": "Team Work",
+      "completion": 90
+    },
+    {
+      "id": 3,
+      "skill_name": "Creativity",
+      "completion": 90
+    },
+    {
+        "id": 4,
+        "skill_name": "Communication",
+        "completion": 80
+    }
+]

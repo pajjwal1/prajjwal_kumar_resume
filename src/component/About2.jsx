@@ -4,7 +4,7 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import './style.scss'
 import CloudDownloadIcon from '@mui/icons-material/CloudDownload';
-import technologyData from './technology.json';
+import technologyData from '../component/JSON/technology.json';
 const About2 = () => {
     const cardStyle = { minWidth: 150, marginRight: '20px', marginLeft: '20px', boxShadow: ' -1rem 0 3rem #000', backgroundColor: '#202026', color: '#fff' };
     const handleDownload = () => {
@@ -27,6 +27,7 @@ const About2 = () => {
         <span>SASS</span>
         <span>Material UI</span>
         <span>Javascript</span>
+        <span>Typescript</span>
         <span>ES6</span>
         <span>React JS</span>
         <span>Redux</span>
