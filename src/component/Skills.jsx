@@ -7,7 +7,6 @@ import Professional from '../component/JSON/professional.json';
 import CircularProgressWithLabel from './CircularProgressWithLabel';
 
 const Skills = () => {
-    console.log(Language);
   return (
     <Grid container flexDirection='row' className='skills_component'>
         <Grid item md={6} lg={6} xl={6}>
