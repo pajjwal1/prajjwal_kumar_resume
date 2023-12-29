@@ -10,7 +10,6 @@ const Header = () => {
         <NavLink className='header_item' to='/about'>About</NavLink>
         <NavLink className='header_item' to='/skill'>Skill</NavLink>
         <NavLink className='header_item' to='/experience'>Experience</NavLink>
-        <NavLink className='header_item' to='/professional'>Professional</NavLink>
         <NavLink className='header_item' to='/contact'>Contact</NavLink>
     </Grid>
   )

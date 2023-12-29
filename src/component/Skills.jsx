@@ -5,6 +5,7 @@ import Box from '@mui/material/Box';
 import LinearProgressWithLabel from './LinearProgressWithLabel';
 import Professional from '../component/JSON/professional.json';
 import CircularProgressWithLabel from './CircularProgressWithLabel';
+import './style.scss'
 
 const Skills = () => {
   return (

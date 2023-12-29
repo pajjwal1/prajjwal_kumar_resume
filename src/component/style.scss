@@ -136,6 +136,7 @@
         border-radius: 20px;
         border-radius: 20px;
         color: #fff;
+        margin-top: 10px;
         &:hover{
             border: 1px solid #0bceaf;
         }
@@ -173,4 +174,32 @@
         width: 35%;
         margin-bottom: 20px;
     }
+}
+.experience_component{
+    color: #fff;
+    margin-top: 10%;
+    & .education{
+        padding-left: 5%;
+        & .education_title{
+            font-size: 30px;
+            line-height: 40px;
+            font-weight: bold;
+            margin-bottom: 60px;
+        }
+        & .education_combine{
+
+        }
+    }
+    & .work{
+        padding-left: 5%;
+        & .work_title{
+            font-size: 30px;
+            line-height: 40px;
+            font-weight: bold;
+            margin-bottom: 60px;
+        }
+    }
+}
+.css-5xe99f-MuiLinearProgress-bar1 {
+    background-color: #0bceaf !important;
 }

@@ -14,7 +14,6 @@ const Routess = () => {
         <Route path='/about' Component={About2} />
         <Route path='/skill' Component={Skills} />
         <Route path='/experience' Component={Experience} />
-        <Route path='/professional' Component={Professional} />
         <Route path='/contact' Component={Contact} />
     </Routes>
   )
