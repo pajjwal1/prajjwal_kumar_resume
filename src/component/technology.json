@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "image": "https://www.seekpng.com/png/detail/882-8823048_web-design-icon-ui-ux-designer-icon.png",
+      "title": "UI Design",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat."
+    },
+    {
+      "id": 2,
+      "image": "https://miro.medium.com/v2/resize:fit:2400/1*kwFbU46rYY6jSO_cE_8FXA.png",
+      "title": "Web Development",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat."
+    },
+    {
+      "id": 3,
+      "image": "https://th.bing.com/th/id/OIP.Axxwqg4ASCauHdRvAgdaFAHaCy?rs=1&pid=ImgDetMain",
+      "title": "Progressive Web App Development",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat."
+    }
+  ]
+  
