@@ -1,6 +1,6 @@
 import { Grid } from '@mui/material';
-import Header from './component/Header';
-import {Route, Routes } from 'react-router-dom'
+// import Header from './component/Header';
+// import {Route, Routes } from 'react-router-dom'
 import Home from './component/Home';
 import About2 from './component/About2';
 import Skills from './component/Skills';
