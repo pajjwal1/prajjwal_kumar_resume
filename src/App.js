@@ -15,19 +15,19 @@ function App() {
     <Grid container>
       <StyledEngineProvider injectFirst>
         <ThemeProvider theme={theme}>
-          <Header />
+          {/* <Header /> */}
           <Home />
           <About2 />
           <Skills />
           <Experience />
           <Contact />
-          <Routes>
+          {/* <Routes>
           <Route path='/' exact element={<Home />} />
-          <Route path='/about' Component={About2} />
-          <Route path='/skill' Component={Skills} />
-          <Route path='/experience' Component={Experience} />
-          <Route path='/contact' Component={Contact} />
-          </Routes>
+          <Route path='/about' element={<About2 />} />
+          <Route path='/skill' element={<Skills />} />
+          <Route path='/experience' element={<Experience />} />
+          <Route path='/contact' element={<Contact />} />
+          </Routes> */}
         </ThemeProvider>
       </StyledEngineProvider>
     </Grid>
