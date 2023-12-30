@@ -24,7 +24,7 @@ const About2 = () => {
       document.body.removeChild(link);
     };
   return (
-    <Grid container className='about-two' flexDirection='column'>
+    <Grid container className='about-two' flexDirection='column' id="about2">
       <Typography variant='body1' className='about_text'>About Me</Typography>
       <Typography variant='body1' width='90%'>I have overall {years}.{months}+ years of experience, and I worked as a front-end
       developer in my previous project. I'm having Rich experience in React JS as well as in JavaScript.

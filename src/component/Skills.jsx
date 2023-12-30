@@ -9,7 +9,7 @@ import './style.scss'
 
 const Skills = () => {
   return (
-    <Grid container flexDirection='row' className='skills_component'>
+    <Grid container flexDirection='row' className='skills_component' id='skill'>
         <Grid item md={6} lg={6} xl={6}>
         <Typography variant='h4' sx={{marginBottom: '30px'}}>Technology</Typography>
         {Language.map((value) => {

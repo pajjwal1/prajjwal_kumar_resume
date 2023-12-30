@@ -9,7 +9,7 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import Profile from '../Assets/profile_image.png'
 
-const About = () => {
+const Home = () => {
   const [fadeIn, setFadeIn] = useState(false);
   useEffect(()=>{
     setFadeIn(true);
@@ -38,4 +38,4 @@ const About = () => {
   )
 }
 
-export default About
+export default Home
