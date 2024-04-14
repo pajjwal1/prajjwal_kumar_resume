@@ -3,19 +3,19 @@
       "id": 1,
       "image": "https://www.seekpng.com/png/detail/882-8823048_web-design-icon-ui-ux-designer-icon.png",
       "title": "UI Design",
-      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat."
+      "description": "UI Design involves creating visually appealing and intuitive interfaces for websites and applications, focusing on enhancing user experience through layout, typography, and graphical elements."
     },
     {
       "id": 2,
       "image": "https://cdn.iconscout.com/icon/free/png-512/code-280-460136.png",
       "title": "Web Development",
-      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat."
+      "description": "Web development encompasses the creation and maintenance of websites and web applications. It involves various aspects such as front-end development and back-end development. So I have worked on Front end development. "
     },
     {
       "id": 3,
       "image": "https://th.bing.com/th/id/OIP.Axxwqg4ASCauHdRvAgdaFAHaCy?rs=1&pid=ImgDetMain",
       "title": "Progressive Web App Development",
-      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat."
+      "description": "Progressive Web App (PWA) development combines the best of web and mobile apps, offering users an app-like experience directly through a web browser. PWAs leverage modern web technologies to provide fast, reliable, and engaging experiences across various devices."
     }
 ]
   

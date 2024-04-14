@@ -150,6 +150,7 @@
     & .technology_combine{
         display: flex;
         flex-direction: row;
+        justify-content: space-between;
     }
 }
 .skills_component{
@@ -207,6 +208,8 @@
     align-items: center;
     & .contact_combine{
         display: flex;
+        flex-direction: row;
+        justify-content: space-between;
     }
 }
 .contact_form{

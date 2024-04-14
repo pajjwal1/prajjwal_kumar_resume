@@ -26,9 +26,9 @@ const Home = () => {
       <p className='child_icons'><LocationOnIcon /> &nbsp; Bangalore, India</p>
       </div>
       <div className={`social_media_icons ${fadeIn ? 'fade-in' : ''}`}>
-      <p className='icons'><TwitterIcon /></p>
-      <p className='icons'><LinkedInIcon /></p>
-      <p className='icons'><GitHubIcon /></p>
+      <p className='icons'><TwitterIcon onClick={event =>  window.open('https://x.com/prajjwalkeshar5?t=afvq2aC9yNO2VUWCMM0jAQ&s=08', '_blank')} /></p>
+      <p className='icons'><LinkedInIcon onClick={event =>  window.open('https://www.linkedin.com/in/prajjwal-kumar-516346137/', '_blank')} /></p>
+      <p className='icons'><GitHubIcon onClick={event =>  window.open('https://github.com/pajjwal1', '_blank')} /></p>
       </div>
       </Grid>
       <Grid item className='profile_image'>

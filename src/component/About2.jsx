@@ -12,7 +12,7 @@ const About2 = () => {
   (currentDate.getMonth() - startDate.getMonth());
   const years = Math.floor(dateDiff / 12);
   const months = dateDiff % 12;
-  const cardStyle = { minWidth: 150, marginRight: '20px', marginLeft: '20px', boxShadow: ' -1rem 0 3rem #000', backgroundColor: '#202026', color: '#fff' };
+  const cardStyle = { flex: 1, minWidth: 150, marginRight: '20px', marginLeft: '20px', boxShadow: ' -1rem 0 3rem #000', backgroundColor: '#202026', color: '#fff' };
   const handleDownload = () => {
     const pdfPath = process.env.PUBLIC_URL + '/Prajjwal_Resume.pdf';
     const link = document.createElement('a');
@@ -53,8 +53,8 @@ const About2 = () => {
                 <Card sx={cardStyle} key={data.id}>
                     <CardContent>
                         <img src={data.image} alt={data.title} height='25px' width='25px' />
-                        <Typography variant='h5'>{data.title}</Typography>
-                        <Typography variant='body1'>{data.description}</Typography>
+                        <Typography variant='h5' style={{marginTop: "20px"}}>{data.title}</Typography>
+                        <Typography variant='body1' style={{marginTop: "20px"}}>{data.description}</Typography>
                     </CardContent>
                 </Card>
             )})

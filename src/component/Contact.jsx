@@ -27,6 +27,7 @@ const style = {
 
 const Contact = () => {
   const cardStyle = { 
+    flex: 1,
     minWidth: 150, 
     marginRight: '20px', 
     marginLeft: '40px', 
@@ -53,7 +54,7 @@ const [open, setOpen] = useState(false);
           <CardContent>
             <PlaceIcon style={{borderRadius: '50px', border: '1px solid #0bceaf', padding:'40px'}}/>
             <Typography variant='h5' sx={{marginTop: '30px', marginBottom: '30px'}}>Address</Typography>
-            <Typography variant='body1'>5th Avenue, 34th floor, New york</Typography>
+            <Typography variant='body1'>5th main, Telecom Layout, AshwathNagar, Thanisandra, Bengaluru-560077</Typography>
           </CardContent>
         </Card>
         <Card sx={cardStyle}>
